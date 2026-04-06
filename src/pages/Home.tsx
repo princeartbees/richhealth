@@ -183,7 +183,7 @@ export default function Home() {
               <div className="space-y-4">
                 <h2 className="text-blue-600 font-bold uppercase tracking-widest text-sm">About Rich Health</h2>
                 <h3 className="text-4xl md:text-5xl font-extrabold text-blue-950 leading-tight">
-                  Pioneering Excellence in Pharmaceutical Manufacturing
+                  Pioneering Excellence in Ayurvedic Manufacturing
                 </h3>
               </div>
               
