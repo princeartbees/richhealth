@@ -1,0 +1,5 @@
+{
+  "name": "Rich Health - Premium Pharmaceutical Tablets & Capsules",
+  "description": "A high-trust, professional pharmaceutical brand website for Rich Health, specializing in premium quality tablets and capsules with eCommerce showcase functionality.",
+  "requestFramePermissions": ["geolocation"]
+}
